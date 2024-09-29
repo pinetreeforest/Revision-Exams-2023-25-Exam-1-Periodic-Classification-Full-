@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="677EDD78-D80F-4875-A366-1842DE382714" version="0">
+	<info>
+		<title>Revision Exam-2-Periodic Classification</title>
+		<description/>
+	</info>
+	<files index="id34" thumbnail="id30" totalSize="2333769">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/html5-unsupported.html</file>
+		<file id="id7">data/html5.png</file>
+		<file id="id8">data/images/img-08be8186215b5f5b6bab0e2144eabb89ece0aef7.png</file>
+		<file id="id9">data/images/img-0b47edcdd57f3a1716da1eab88655c757b433163.jpg</file>
+		<file id="id10">data/images/img-1e4dc4db11fc6799485b556cffc4fd183efa5a9b.jpg</file>
+		<file id="id11">data/images/img-215135a165acdd74d7d82c90800730b26ac0b072.jpg</file>
+		<file id="id12">data/images/img-2ee18a686b643f0099c10241a4a0a514cca03b96.png</file>
+		<file id="id13">data/images/img-473c6baf35ab95636f80f343af6b3932d10778e2.png</file>
+		<file id="id14">data/images/img-47cd6b8aea48741a362e6b59b19cad74d112a2a2.png</file>
+		<file id="id15">data/images/img-4ae297092214b2f52b8dc6ad9b53911f3f8526de.png</file>
+		<file id="id16">data/images/img-6d95394731781ed2344bea705ebd05d548df9345.jpg</file>
+		<file id="id17">data/images/img-74753265f1f6ca7e914d4f9d6aa35ce2e541d989.png</file>
+		<file id="id18">data/images/img-83b9fd429e7ae04e0c85b2731db0bda7e3d2302e.png</file>
+		<file id="id19">data/images/img-8476954518a8ff35e1acf78db4a09f3a4cf5cc87.png</file>
+		<file id="id20">data/images/img-8bd419a5376705f56df980bb23798b83bbd40998.jpg</file>
+		<file id="id21">data/images/img-adbce2f366bc3b77aec49a1c5866e84cfa1ac6ac.jpg</file>
+		<file id="id22">data/images/img-b6ffe8d2813f16c56cc4d3e7e4de25e140525a5b.png</file>
+		<file id="id23">data/images/img-d34d37be03872ca322a7cceebbb3b0213c949244.jpg</file>
+		<file id="id24">data/images/img-dd2fa77dddf8853af497675a7037f4e20d1bff07.jpg</file>
+		<file id="id25">data/images/img-f31e420dd23b6d6ce1cd8dfffbccea084d968d65.jpg</file>
+		<file id="id26">data/images/img-fa01310ce62108255ac2a323ffdb027f25440b9e.png</file>
+		<file id="id27">data/images/img-ff0b22453d8acec88cc59b6632ec525fd4a34d07.png</file>
+		<file id="id28">data/ismplayer/app_store2x.png</file>
+		<file id="id29">data/ismplayer/play.svg</file>
+		<file id="id30">data/ismplayer/preview.png</file>
+		<file id="id31">data/ismplayer/style.css</file>
+		<file id="id32">data/ismplayer/style_mini.css</file>
+		<file id="id33">data/player.js</file>
+		<file id="id34">index.html</file>
+		<file id="id35">ismplayer.html</file>
+		<file id="id36">preview.png</file>
+	</files>
+</presentation>
+
